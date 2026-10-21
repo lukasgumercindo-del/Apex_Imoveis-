@@ -23,7 +23,7 @@ A diretoria comercial de uma imobiliária fictícia precisa decidir **onde conce
 | **Segmentos** | 949 com vendas; 355 elegíveis (70% das transações); 174 no núcleo robusto |
 | **Recomendação** | Piloto em 10 segmentos recomendados; outros 10 a validar |
 
-> 📄 Leia o [Memorando Executivo](docs/memorando_executivo.md) completo para entender os detalhes da estratégia.
+> 📄 Leia o [Memorando Executivo](docs/memorando_executido.md) completo para entender os detalhes da estratégia.
 
 ---
 
