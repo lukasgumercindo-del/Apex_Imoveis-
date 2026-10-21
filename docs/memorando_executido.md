@@ -57,4 +57,3 @@ Aprovar um piloto de prospecção de um trimestre nos **10 segmentos recomendado
 ## Fontes e reprodução
 - Prefeitura de São Paulo, Secretaria Municipal da Fazenda: *Dados das Transações Imobiliárias com recolhimento de ITBI* (arquivos anuais de 2022 a 2025).
 - IBGE: IPCA, API SIDRA, tabela 1737.
-- Código, SQL e notebooks para reproduzir os resultados: ____________ (link do repositório).
