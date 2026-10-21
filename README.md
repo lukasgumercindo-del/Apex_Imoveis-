@@ -93,10 +93,6 @@ apex-imoveis/
 ├── referencias/    # Tabela oficial de padrões do IPTU
 ├── sql/            # 01 tabelas · 02 funil · 03 IPCA · 04 recorte · 05 rótulos de setor
 ├── src/            # Scripts Python: conexão, ingestão, carga, IPCA e executor de SQL
-├── .env.example    # Exemplo de variáveis de ambiente
-├── .gitignore      # Arquivos ignorados no versionamento Git
-├── README.md       # Documentação principal do projeto
-└── requirements.txt# Dependências do projeto Python
 
 ```
 
