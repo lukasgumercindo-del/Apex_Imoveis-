@@ -179,7 +179,3 @@ Este projeto está sob a licença [MIT](https://www.google.com/search?q=LICENSE)
 
 * LinkedIn: [https://www.linkedin.com/in/lucas-gumercindo/](https://www.google.com/search?q=https://www.linkedin.com/in/lucas-gumercindo/)
 * GitHub: [https://github.com/LucasGumercindo](https://www.google.com/search?q=https://github.com/LucasGumercindo)
-
-```
-
-```
