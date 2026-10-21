@@ -1,6 +1,6 @@
-# Priorização de Prospecção Imobiliária em São Paulo
+# Priorização de Prospecção Imobiliária em São Paulo 🏢
 
-**Estudo de caso fictício (Apex Imóveis) sobre dados públicos reais de ITBI, 2022–2025:** da planilha bruta da Prefeitura ao dashboard e ao memorando executivo. 🏢
+**Estudo de caso fictício (Apex Imóveis) sobre dados públicos reais de ITBI, 2022–2025:** da planilha bruta da Prefeitura ao dashboard e ao memorando executivo. 
 
 ## 📌 O Problema de Negócio
 
